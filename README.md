@@ -4,9 +4,11 @@ CNN Solutions:
 
 1) CNN 4 Convolutions - 96.29%
 
-2) Transfer Learning using the FER2013 dataset - Unknown
+Transfer Learning:
 
-3) 
+1) Using the FER2013 dataset
+
+2) resnet50 
 
 # Data
 SMILE_Dataset
