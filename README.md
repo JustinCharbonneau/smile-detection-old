@@ -2,7 +2,7 @@
 
 CNN Solutions:
 
-1) Baseline - 96.29%
+1) CNN 4 Convolutions - 96.29%
 
 2) Transfer Learning using the FER2013 dataset - Unknown
 
